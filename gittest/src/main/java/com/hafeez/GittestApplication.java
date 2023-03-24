@@ -10,6 +10,7 @@ public class GittestApplication {
 		SpringApplication.run(GittestApplication.class, args);
 		System.out.println("hao ");
 		System.out.println("updated only in temp");
+		System.out.println("sysout in temp2");
 	}
 
 }
